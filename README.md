@@ -1,7 +1,7 @@
 # Sistema de Gestão de Anuidades - Devs do RN
 
 ## Sobre o Projeto:
- Este projeto foi desenvolvido para facilitar a gestão dos associados e suas anuidades na associação **Devs do RN**. Permitindo cadastrar associados, registrar valores de anuidades e realizar o controle de pagamentos, com a possibilidade de verificar quais associados estão em dia e quais estão com pagamentos em atraso.
+ Este é um pequeno projeto que foi desenvolvido para facilitar a gestão dos associados e suas anuidades na associação **Devs do RN**. Permitindo cadastrar associados, registrar valores de anuidades e realizar o controle de pagamentos, com a possibilidade de verificar quais associados estão em dia e quais estão com pagamentos em atraso.
 ## Tecnologias Utilizadas
 - **Backend**: PHP utizando o XAMPP(sem framework)
 - **Banco de dados**: MySQL
