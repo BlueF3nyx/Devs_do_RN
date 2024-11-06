@@ -58,5 +58,4 @@
      
    3. Registro de Pagamento:
       - Nessa página, preencha os dados do ano e valor da anuidade e clique em "Cadastrar".
-     
-   Assim, poderá ser vizualizado a gestão dos associados e suas anuidades.
+    
