@@ -56,6 +56,4 @@
    2. Cadastrar uma anuidade:
       - Nessa página, preencha com a data e ano das anuidades dos associados e clique em "Cadastrar".
      
-   3. Registro de Pagamento:
-      - Nessa página, preencha os dados do ano e valor da anuidade e clique em "Cadastrar".
     
