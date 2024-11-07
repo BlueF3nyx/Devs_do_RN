@@ -16,7 +16,7 @@
  
 ## Tutorial de Instalação e como testar:
 1. Clone o repositório para sua máquina local: 
-- git clone https://github.com/Seu_Usuario/devs-do-rn.git
+- git clone https://github.com/BlueF3nyx/devs-do-rn.git
 
 2. Configurar o banco de dados:
   - O banco de dados será criado utilizando o script meu_database.sql presente na raiz do projeto, para isso, siga o **passo a passo**:
